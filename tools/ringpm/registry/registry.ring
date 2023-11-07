@@ -731,4 +731,8 @@ aPackagesRegistry = [
           :description = "MatrixLib library for the Ring programming language",
           :ProviderUserName = "ringpackages"
         ]
+	[ :name = "multilingual",
+          :description = "A global symphony of code",
+          :ProviderUserName = "ringpackages"
+        ]
 ]
